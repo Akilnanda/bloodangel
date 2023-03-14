@@ -1,0 +1,610 @@
+.nn{
+    margin-top: 65px;
+}
+.tab{
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 3rem;
+/* identical to box height */
+
+    text-transform: uppercase;
+    font-feature-settings: 'ss02' on, 'ss01' on, 'salt' on, 'liga' off;
+
+    color: #000000;
+
+
+}
+.bloodrequest{
+    position: absolute;
+    width: 153px;
+    height: 46px;
+    left: 1278px;
+    top: 52px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.head{
+    position: absolute;
+    width: 88px;
+    height: 58px;
+    left: 107px;
+    top: 96px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+.field{
+    position: absolute;
+    width: 736px;
+    height: 1394px;
+    left: 352px;
+    top: 257px;
+    
+    background: #D9D9D9;
+}
+.fhead{
+    position: absolute;
+    width: 161px;
+    height: 25px;
+    left: 659px;
+    top: 307px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.fhead2{
+    position: absolute;
+    width: 567px;
+    height: 25px;
+    left: 475px;
+    top: 376px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.title{
+    position: absolute;
+    width: 41px;
+    height: 25px;
+    left: 430px;
+    top: 457px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.titlet{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 415px;
+    top: 494px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.blood{
+    position: absolute;
+    width: 173px;
+    height: 25px;
+    left: 730px;
+    top: 457px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.bloodt{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 730px;
+    top: 494px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.patient{
+    position: absolute;
+    width: 129px;
+    height: 25px;
+    left: 420px;
+    top: 592px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.patientt{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 415px;
+    top: 627px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+    
+}
+.purpose{
+    position: absolute;
+    width: 75px;
+    height: 25px;
+    left: 731px;
+    top: 592px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.purposet{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 730px;
+    top: 627px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.bloodg{
+    position: absolute;
+    width: 116px;
+    height: 25px;
+    left: 415px;
+    top: 726px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.bloodgt{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 415px;
+    top: 760px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.mobile{position: absolute;
+    width: 142px;
+    height: 25px;
+    left: 732px;
+    top: 726px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.mobilet{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 730px;
+    top: 760px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+    
+}
+.patienta{
+    position: absolute;
+    width: 101px;
+    height: 25px;
+    left: 419px;
+    top: 858px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.patientat{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 415px;
+    top: 893px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.hospital{
+    position: absolute;
+    width: 132px;
+    height: 25px;
+    left: 732px;
+    top: 858px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.hospitalt{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 730px;
+    top: 893px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.when{
+    position: absolute;
+    width: 177px;
+    height: 25px;
+    left: 420px;
+    top: 993px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.whent{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 415px;
+    top: 1026px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.country{
+    position: absolute;
+    width: 75px;
+    height: 25px;
+    left: 734px;
+    top: 993px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.countryt{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 730px;
+    top: 1026px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+    
+}
+.state{
+    position: absolute;
+    width: 44px;
+    height: 25px;
+    left: 420px;
+    top: 1127px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.statet{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 415px;
+    top: 1159px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+    
+}
+.city{
+    position: absolute;
+    width: 37px;
+    height: 25px;
+    left: 734px;
+    top: 1127px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.cityt{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 730px;
+    top: 1159px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.address{
+    position: absolute;
+    width: 73px;
+    height: 25px;
+    left: 419px;
+    top: 1257px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.addresst{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 610px;
+    height: 72px;
+    left: 415px;
+    top: 1290px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.detail{
+    position: absolute;
+    width: 62px;
+    height: 25px;
+    left: 415px;
+    top: 1389px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.detailt{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 610px;
+    height: 72px;
+    left: 415px;
+    top: 1423px;
+    
+    background: #D9D9D9;
+    border: 1px solid #000000;
+}
+.sub{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 295px;
+    height: 72px;
+    left: 572px;
+    top: 1545px;
+    
+    background: #D9D9D9;
+    border: 1px solid #FF0000;
+}
+.oval{
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    width: 1550px;
+    height: 188px;
+    left: -15px;
+    top: 1795px;
+}
+.rectangle{
+    height: 50px;
+    width: 100px;
+    background-color: #EBAAA6;
+    position: absolute;
+    width: 1550px;
+    height: 388px;
+    left: -15px;
+    top: 1895px;
+}
+.world{
+    position: absolute;
+    width: 132px;
+    height: 124px;
+    left: 233px;
+    top: 1817px;
+}
+.mail{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 347px;
+    top: 2098px;
+}
+.mailt{
+    position: absolute;
+    width: 183px;
+    height: 33px;
+    left: 435px;
+    top: 2068px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.right{
+    position: absolute;
+    width: 177px;
+    height: 22px;
+    left: 175px;
+    top: 2225px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.right2{
+    position: absolute;
+    width: 333px;
+    height: 22px;
+    left: 1085px;
+    top: 2225px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.donortext{
+    position: absolute;
+    width: 1111px;
+    height: 72px;
+    left: 205px;
+    bottom: 2051px;
+    
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 73px;
+    
+    color: #563328;
+    
+}

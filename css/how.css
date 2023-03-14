@@ -1,0 +1,251 @@
+.nn{
+    margin-top: 65px;
+}
+.tab{
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 3rem;
+/* identical to box height */
+
+    text-transform: uppercase;
+    font-feature-settings: 'ss02' on, 'ss01' on, 'salt' on, 'liga' off;
+
+    color: #000000;
+
+
+}
+.bloodrequest{
+    position: absolute;
+    width: 153px;
+    height: 46px;
+    left: 1278px;
+    top: 52px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.head{
+    position: absolute;
+    width: 88px;
+    height: 58px;
+    left: 107px;
+    top: 96px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+.headrect{
+    position: absolute;
+    width: 1673px;
+    height: 171px;
+    left: -66px;
+    top: 135px;
+}
+.head1{
+    position: absolute;
+    width: 641px;
+    height: 41px;
+    left: 205px;
+    bottom: 1468px;
+    top: 422px;
+    
+    font-family: 'Alfa Slab One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    text-transform: uppercase;
+    
+    color: #563328;
+    
+}
+.head1t{
+    position: absolute;
+    width: 861px;
+    height: 95px;
+    left: 215px;
+    top: 512px;
+    
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+    
+}
+.head2{
+    position: absolute;
+    width: 641px;
+    height: 41px;
+    left: 205px;
+    bottom: 1468px;
+    top: 622px;
+    
+    font-family: 'Alfa Slab One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    text-transform: uppercase;
+    
+    color: #563328;
+    
+}
+.head2t{
+    position: absolute;
+    width: 935px;
+    height: 153px;
+    left: 215px;
+    top: 723px;
+    
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+    
+}
+.head3{
+    position: absolute;
+    width: 641px;
+    height: 41px;
+    left: 205px;
+    bottom: 1468px;
+    top: 862px;
+    
+    font-family: 'Alfa Slab One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    text-transform: uppercase;
+    
+    color: #563328;
+    
+}
+.head3t{
+    position: absolute;
+    width: 937px;
+    height: 188px;
+    left: 215px;
+    top: 958px;
+    
+    font-family: 'Alice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+    
+}
+.oval{
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    width: 1550px;
+    height: 188px;
+    left: -15px;
+    top: 1195px;
+}
+.rectangle{
+    height: 50px;
+    width: 100px;
+    background-color: #EBAAA6;
+    position: absolute;
+    width: 1550px;
+    height: 388px;
+    left: -15px;
+    top: 1295px;
+}
+.world{
+    position: absolute;
+    width: 132px;
+    height: 124px;
+    left: 233px;
+    top: 1217px;
+}
+.mail{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 347px;
+    top: 1498px;
+}
+.mailt{
+    position: absolute;
+    width: 183px;
+    height: 33px;
+    left: 435px;
+    top: 1468px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.right{
+    position: absolute;
+    width: 177px;
+    height: 22px;
+    left: 175px;
+    top: 1625px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.right2{
+    position: absolute;
+    width: 333px;
+    height: 22px;
+    left: 1085px;
+    top: 1625px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.donortext{
+    position: absolute;
+    width: 1111px;
+    height: 72px;
+    left: 205px;
+    bottom: 2051px;
+    
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 73px;
+    
+    color: #563328;
+    
+}

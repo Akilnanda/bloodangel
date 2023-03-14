@@ -1,0 +1,587 @@
+.nn{
+    margin-top: 65px;
+}
+.tab{
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 3rem;
+/* identical to box height */
+
+    text-transform: uppercase;
+    font-feature-settings: 'ss02' on, 'ss01' on, 'salt' on, 'liga' off;
+
+    color: #000000;
+
+
+}
+.bloodrequest{
+    position: absolute;
+    width: 153px;
+    height: 46px;
+    left: 1278px;
+    top: 52px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.head{
+    position: absolute;
+    width: 88px;
+    height: 58px;
+    left: 107px;
+    top: 96px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+.headrect{
+    position: absolute;
+    width: 1673px;
+    height: 171px;
+    left: -66px;
+    top: 135px;
+}
+.wordhead{
+    position: absolute;
+    width: 1027px;
+    height: 25px;
+    left: 159px;
+    top: 354px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.fn{
+    position: absolute;
+    width: 103px;
+    height: 25px;
+    left: 366px;
+    top: 444px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.fnt{
+    position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 500px;
+    
+    background: #B5B5B5;
+    }
+.ln{position: absolute;
+    width: 98px;
+    height: 25px;
+    left: 366px;
+    top: 564px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.lnt{position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 620px;
+    
+    background: #B5B5B5;
+    
+}
+.e{position: absolute;
+    width: 52px;
+    height: 25px;
+    left: 365px;
+    top: 685px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.et{position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 741px;
+    
+    background: #B5B5B5;
+}
+.ph{position: absolute;
+    width: 58px;
+    height: 25px;
+    left: 365px;
+    top: 805px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.pht{position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 861px;
+    
+    background: #B5B5B5;
+    
+}
+.bg{position: absolute;
+    width: 116px;
+    height: 25px;
+    left: 366px;
+    top: 936px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.bgt{position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 982px;
+    
+    background: #B5B5B5;
+}
+.dob{
+    position: absolute;
+    width: 179px;
+    height: 25px;
+    left: 366px;
+    top: 1047px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    }
+.dobt{position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 1100px;
+    
+    background: #B5B5B5;
+}
+.st{
+    position: absolute;
+    width: 130px;
+    height: 25px;
+    left: 365px;
+    top: 1168px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.stt{
+    position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 1223px;
+    
+    background: #B5B5B5;
+}
+.apartment{
+    position: absolute;
+    width: 97px;
+    height: 25px;
+    left: 365px;
+    top: 1288px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;    
+}
+.apartmentt{
+    position: absolute;
+    width: 890px;
+    height: 41px;
+    left: 365px;
+    top: 1349px;
+    
+    background: #B5B5B5;
+}
+.city{
+    position: absolute;
+    width: 37px;
+    height: 25px;
+    left: 365px;
+    top: 1407px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.cityt{
+    position: absolute;
+    width: 401px;
+    height: 41px;
+    left: 365px;
+    top: 1461px;
+    
+    background: #B5B5B5;
+}
+.state{
+    position: absolute;
+    width: 143px;
+    height: 25px;
+    left: 838px;
+    top: 1407px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.statet{
+    position: absolute;
+    width: 401px;
+    height: 41px;
+    left: 835px;
+    top: 1461px;
+    
+    background: #B5B5B5;
+}
+.zip{
+    position: absolute;
+    width: 153px;
+    height: 25px;
+    left: 366px;
+    top: 1528px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;    
+}
+.zipt{
+    position: absolute;
+    width: 401px;
+    height: 41px;
+    left: 366px;
+    top: 1581px;
+    
+    background: #B5B5B5;
+}
+.country{
+    position: absolute;
+    width: 75px;
+    height: 25px;
+    left: 838px;
+    top: 1527px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.countryt{
+    position: absolute;
+    width: 401px;
+    height: 41px;
+    left: 834px;
+    top: 1581px;
+    
+    background: #B5B5B5;
+}
+.qn{
+    position: absolute;
+    width: 344px;
+    height: 25px;
+    left: 366px;
+    top: 1654px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.qn1{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 369px;
+    top: 1712px;
+    
+    background: #D9D9D9;
+}
+.qnl1{
+    position: absolute;
+    width: 30px;
+    height: 25px;
+    left: 406px;
+    top: 1708px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.qn2{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 369px;
+    top: 1747px;
+    
+    background: #D9D9D9;
+}
+
+.qnl2{
+    position: absolute;
+    width: 27px;
+    height: 25px;
+    left: 408px;
+    top: 1741px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.ck{
+    position: absolute;
+    width: 18px;
+    height: 17px;
+    left: 369px;
+    top: 1806px;
+    
+    background: #D9D9D9;
+}
+.ckt{
+    position: absolute;
+    width: 547px;
+    height: 25px;
+    left: 401px;
+    top: 1785px;
+    
+    font-family: 'Alike';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.submitbut{
+    position: absolute;
+    width: 190px;
+    height: 41px;
+    left: 369px;
+    top: 1857px;
+    
+    background: #22BDFF;
+}
+.botborder{
+    position: absolute;
+    width: 10735px;
+    height: 388px;
+    left: -7249px;
+    top: 2095px;
+    
+    background: #EBAAA6;
+}
+.oval{
+    background-color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    width: 1550px;
+    height: 188px;
+    left: -15px;
+    top: 1895px;
+}
+.rectangle{
+    height: 50px;
+    width: 100px;
+    background-color: #EBAAA6;
+    position: absolute;
+    width: 1550px;
+    height: 388px;
+    left: -15px;
+    top: 1995px;
+}
+.world{
+    position: absolute;
+    width: 132px;
+    height: 124px;
+    left: 233px;
+    top: 1917px;
+}
+.mail{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 347px;
+    top: 2198px;
+}
+.mailt{
+    position: absolute;
+    width: 183px;
+    height: 33px;
+    left: 435px;
+    top: 2168px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.right{
+    position: absolute;
+    width: 177px;
+    height: 22px;
+    left: 175px;
+    top: 2325px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.right2{
+    position: absolute;
+    width: 333px;
+    height: 22px;
+    left: 1085px;
+    top: 2325px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.donortext{
+    position: absolute;
+    width: 1111px;
+    height: 72px;
+    left: 205px;
+    bottom: 2051px;
+    
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 73px;
+    
+    color: #563328;
+    
+}

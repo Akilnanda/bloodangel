@@ -1,0 +1,304 @@
+.bg1{
+    position: absolute;
+    width: 1440px;
+    height: 542px;
+    left: 0px;
+    top: 0px;
+}
+.nn{
+    margin-top: 65px;
+}
+.tab{
+    font-family: 'Inder';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 3rem;
+/* identical to box height */
+
+    text-transform: uppercase;
+    font-feature-settings: 'ss02' on, 'ss01' on, 'salt' on, 'liga' off;
+
+    color: #FFFFFF;
+
+
+}
+
+.bloodrequest{
+    position: absolute;
+    width: 153px;
+    height: 46px;
+    left: 1278px;
+    top: 52px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+.bloodrequest:hover {
+    background-color:#ffc072;
+    transition: 0.1s;
+}
+.mainhead{
+    position: absolute;
+    width: 1250px;
+    height: 84px;
+    left: 178px;
+    top: 148px;
+
+    font-family: 'IM FELL English SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 81px;
+
+    color: #F5F5F5;
+}
+.number{
+    position: absolute;
+width: 331px;
+height: 50px;
+left: 610px;
+top: 234px;
+
+font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.subhead{
+    position: absolute;
+width: 1054px;
+height: 40px;
+left: 248px;
+top: 311px;
+
+font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.becomeadonor{
+    position: absolute;
+width: 308px;
+height: 56px;
+left: 376px;
+top: 430px;
+
+background: #FFFFFF;
+border-radius: 10px;
+box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+.becomeadonor:hover {
+    background-color:#ffc072;
+    transition: 0.1s;
+}
+.findablooddonor{
+    position: absolute;
+    width: 308px;
+    height: 56px;
+    left: 765px;
+    top: 430px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+.findablooddonor:hover {
+    background-color:#ffc072;
+    transition: 0.1s;
+}
+.man{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 385px;
+top: 443px;
+
+}
+.search{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 773px;
+    top: 446px;
+
+}
+.head{
+    position: absolute;
+    width: 88px;
+    height: 58px;
+    left: 107px;
+    top: 96px;
+    
+    font-family: 'Irish Grover';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+.pichead{
+    background-image: url('head.png');
+    position: absolute;
+    width: 100%;
+    height: 542px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.part2{
+    position: absolute;
+    width: 273px;
+    height: 78px;
+    left: 156px;
+    top: 614px;
+    
+    font-family: 'Dela Gothic One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 46px;
+    
+    color: #000000;
+}
+.icgirl{
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 510px;
+    top: 693px;
+}
+
+.icboy{
+    position: absolute;
+    width: 44px;
+    height: 41px;
+    left: 508px;
+    top: 768px;
+}
+.icbrain{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 515px;
+    top: 853px;
+}
+.icmedkit{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 515px;
+    top: 930px;
+}
+.safe{
+    position: absolute;
+    width: 862px;
+    height: 58px;
+    left: 476px;
+    top: 585px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+.women{position: absolute;
+    width: 770px;
+    height: 56px;
+    left: 568px;
+    top: 664px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+.children{position: absolute;
+    width: 792px;
+    height: 28px;
+    left: 561px;
+    top: 758px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.people{position: absolute;
+    width: 758px;
+    height: 28px;
+    left: 561px;
+    top: 830px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.many{position: absolute;
+    width: 745px;
+    height: 28px;
+    left: 561px;
+    top: 911px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.pichead2{position: absolute;
+    width: 325px;
+    height: 287px;
+    left: 130px;
+    top: 737px;
+}
+.it{position: absolute;
+    width: 817px;
+    height: 189px;
+    left: 520px;
+    top: 966px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: justify;
+    
+    color: #000000;
+    
+}
